@@ -1,5 +1,5 @@
 title: Victoria Moraes
-description: I was born and raised in Mato Grosso do Sul, Brazil. Although it is a heavily pecuarist state, I was always interested in mathematics, music, theatre and technology. In college, I became a member of the choir and fell in love with it. to be continued..Career Goals
+description: 
 
 baseurl: "/monday" # the subpath of your site, e.g. /blog
 url: "https://mr4s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Victoria Moraes
 tagline: Computer Engineering Student
-about-description: # Add Discription
+about-description: I was born and raised in Mato Grosso do Sul, Brazil. Although it is a heavily pecuarist state, I was always interested in mathematics, music, theatre and technology. In college, I became a member of the choir and fell in love with it. to be continued..Career Goals # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
