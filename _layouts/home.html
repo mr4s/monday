@@ -34,6 +34,12 @@ layout: default
         {% else %}
         
         {% endif %}
+        
+        {% if site.facebook %}
+          <li class="facebook"><a href="http://facebook.com/{{site.facebook}}" target="_blank"><i class="fa fa-facebook"></i> facebook.com/{{site.facebook}}</a></li>
+        {% else %}
+        
+        {% endif %}
 
         {% if site.linkedin %}
           <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i> linkedin.com/in/{{site.linkedin}}</a></li>
