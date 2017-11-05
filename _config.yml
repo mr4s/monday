@@ -1,7 +1,7 @@
 title: Victoria Moraes
 description: 
 
-baseurl: "/monday" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mr4s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
